@@ -1,4 +1,2 @@
-frontend-nanodegree-resume
-==========================
-
-project commit
+udresume
+========
